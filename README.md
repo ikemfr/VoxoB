@@ -1,3 +1,4 @@
+[※日本語版READMEはこちら](https://github.com/ike-mfr/VoxoB/blob/main/README.ja.md)
 # 🧊 VoxoB (Voxel Generator & Editor)
 
 VoxoB is a lightweight, browser-based 3D voxel editor and procedural generator. 
